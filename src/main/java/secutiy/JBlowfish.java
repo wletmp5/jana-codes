@@ -8,6 +8,7 @@ import javax.xml.bind.DatatypeConverter;
 
 public class JBlowfish
 {
+    //git
     final protected static char[] hexArray = "0123456789ABCDEF".toCharArray();
 
     // Converts byte array to hex string
